@@ -1,3 +1,59 @@
+## 中文说明
+
+本仓库是一份 **Awesome 清单的总索引**：收录各个领域里精心整理的 “awesome-xxx” 资源清单（每一项链接到一个独立的 GitHub 清单仓库），方便按主题快速找到高质量的工具、库、教程和资料。
+
+> 来源：本仓库内容来自 [sindresorhus/awesome](https://github.com/sindresorhus/awesome)，原作者 Sindre Sorhus 及社区贡献者，感谢原项目。以下英文内容保持原样。
+
+### 分类一览
+
+| 英文分类 | 中文说明 |
+| --- | --- |
+| Platforms | 平台：Node.js、iOS、Android、各类云平台、操作系统、物联网等 |
+| Programming Languages | 编程语言：各门语言的资源清单 |
+| Front-End Development | 前端开发：框架、CSS、浏览器相关技术 |
+| Back-End Development | 后端开发：服务端框架、部署与运维相关 |
+| Computer Science | 计算机科学：算法、机器学习、数据科学等 |
+| Big Data | 大数据：数据处理、数据工程相关 |
+| Theory | 理论：编程范式、设计原则等理论知识 |
+| Books | 书籍：免费编程书、各类书单 |
+| Editors | 编辑器：Vim、Emacs、VS Code 等编辑器生态 |
+| Gaming | 游戏：游戏开发、引擎、游戏相关资源 |
+| Development Environment | 开发环境：命令行、Shell、Git 等工具 |
+| Entertainment | 娱乐：科幻、影视、播客等 |
+| Databases | 数据库：各类数据库及相关工具 |
+| Media | 媒体：音视频、图片、字体、设计素材 |
+| Learn | 学习：教程、课程、学习资源 |
+| Security | 安全：网络安全、渗透测试、隐私 |
+| Content Management Systems | 内容管理系统（CMS） |
+| Hardware | 硬件：机器人、电子、3D 打印等 |
+| Business | 商业：创业、营销、产品管理等 |
+| Work | 工作：远程办公、求职面试、效率 |
+| Networking | 网络：网络协议与网络工具 |
+| Decentralized Systems | 去中心化系统：区块链、加密货币等 |
+| Health and Social Science | 健康与社会科学 |
+| Events | 活动：技术会议、黑客松等 |
+| Testing | 测试：软件测试工具与方法 |
+| Miscellaneous | 其他：未归入以上分类的各种清单 |
+| Related | 相关：与 Awesome 清单相关的其他索引和项目 |
+
+### 如何使用
+
+1. 在下方英文目录 **Contents** 中点击感兴趣的分类；
+2. 每条记录格式为「清单名称 - 简介」，点击名称即可进入对应的 awesome 清单仓库；
+3. 也可以在页面中用 `Ctrl/Cmd + F` 搜索关键词（如 Python、Unity、Security）。
+
+### 如何贡献
+
+- 添加新清单：请遵循 [贡献指南](contributing.md) 和 [提交规范](pull_request_template.md)，通过 Pull Request 提交；
+- 创建自己的 awesome 清单：参见 [create-list.md](create-list.md)；
+- 参与本项目需遵守 [行为准则](code-of-conduct.md)。
+
+### 许可证
+
+本仓库采用 [CC0 1.0 Universal](license) 协议（公共领域贡献），可自由使用、复制和修改。
+
+---
+
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
